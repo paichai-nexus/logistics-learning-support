@@ -1,5 +1,20 @@
 # logistics-learning-support
 
+<!-- NEXUS_PROJECT_META_START -->
+
+## Project Management
+
+| Field | Value |
+| --- | --- |
+| Status | 🟠 Prototype |
+| Project Lead | TBD |
+| Team / Support | International Logistics Learning Support |
+| Next Milestone | 국제물류론 다국어 수업 보조자료 3~5장 시제품 제작 |
+| Registry | [NEXUS Project Registry](https://github.com/paichai-nexus/nexus-project-registry) |
+
+<!-- NEXUS_PROJECT_META_END -->
+
+
 PAICHAI NEXUS Student Project
 
 ## Overview
@@ -8,7 +23,7 @@ This repository is an official project repository of **PAICHAI NEXUS**, an inter
 
 ## Project Status
 
-🟡 Planning
+🟠 Prototype
 
 ## Objectives
 
